@@ -18,4 +18,4 @@ main.py
 ```
 
 ## Interface
-<img src="https://user-images.githubusercontent.com/61149391/187141548-f1d71a99-3c8e-4f68-9e59-a80cba60e17b.png" width=100% height=100%>
+<img src="https://user-images.githubusercontent.com/61149391/187142211-ad6d543d-6696-4f97-bc34-cb74e257f2b0.png" width=100% height=100%>
