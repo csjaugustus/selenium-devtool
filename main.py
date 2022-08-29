@@ -7,7 +7,6 @@ from tkinter import ttk
 import traceback
 import time
 import json
-import pyperclip
 
 by_dic = {
     "ID" : By.ID,
@@ -46,7 +45,6 @@ def main():
         result.send_keys("example")
 
     driver = webdriver.Chrome()
-    driver.get("https://www.turkishclass101.com/")
 
     root = tk.Tk()
 
