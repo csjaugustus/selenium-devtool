@@ -19,7 +19,6 @@ by_dic = {
     "CSS_SELECTOR" : By.CSS_SELECTOR,
 }
 
-
 def main():
     def run_code(driver):
         code = textbox.get("1.0", tk.END)
