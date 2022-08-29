@@ -16,3 +16,6 @@ cd selenium-devtool
 ```
 main.py
 ```
+
+## Interface
+<img src="https://user-images.githubusercontent.com/61149391/187141548-f1d71a99-3c8e-4f68-9e59-a80cba60e17b.png" width=25% height=25%>
